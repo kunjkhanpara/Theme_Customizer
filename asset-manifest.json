@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Theme_Customizer/static/css/main.c4c72706.css",
+    "main.js": "/Theme_Customizer/static/js/main.29b9ae22.js",
+    "index.html": "/Theme_Customizer/index.html",
+    "main.c4c72706.css.map": "/Theme_Customizer/static/css/main.c4c72706.css.map",
+    "main.29b9ae22.js.map": "/Theme_Customizer/static/js/main.29b9ae22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c72706.css",
+    "static/js/main.29b9ae22.js"
+  ]
+}
